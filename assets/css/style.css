@@ -646,7 +646,7 @@ header{
 }
 
 .single_buyer_post_thumb img{
-    width: 80%;
+    width: 100%;
 }
 
 .single_buyer_text{
@@ -696,7 +696,7 @@ header{
 }
 
 .single_vote img{
-    width: 80%;
+    width: 100%;
 }
 
 .single_vote_info{
